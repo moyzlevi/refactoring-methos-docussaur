@@ -12,4 +12,4 @@ Técnicas de refatoração são formas sistematicas de aperfeiçoar o código se
 
 ### Fonte
 
-- O conteúdo desse site foi removido de [refactoring.guru](https://refactoring.guru/) 
+- O conteúdo desse site foi extraído de [refactoring.guru](https://refactoring.guru/) 
